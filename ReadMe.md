@@ -1,3 +1,6 @@
+I changed it so that it can be used for packing logs. Very good design, thanks!
+
+
 # Move Files Into Date Directories
 
 [This PowerShell script](src/MoveFilesIntoDateDirectories.ps1) will scan all files in the `SourceDirectoryPath` and then move them into directories whose name is based on the file's LastWriteTime date.
